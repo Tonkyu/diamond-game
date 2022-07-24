@@ -4,4 +4,4 @@ lib/
 pyvenv.cfg
 
 .DS_Store
-__pycache__.py
+__pycache__/
