@@ -1,9 +1,9 @@
+.gitignore
+
 bin/
 include/
 lib/
 pyvenv.cfg
-.DS_Store
 
-cui/__pycache__.py
-gui/__pycache__.py
-gui/.DS_Store
+.DS_Store
+__pycache__.py
